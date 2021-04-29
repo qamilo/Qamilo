@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Qamilo
 - 👀 I’m interested in Databases and Web Development.
-- 🌱 I’m currently learning Django, JS, and Docker.
+- 🌱 I’m currently learning Java, JS, and REST API.
 - 💞️ I’m looking to collaborate on Open Source Projects. 
 
 <!---
