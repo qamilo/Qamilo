@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @qamilo
 - 🌱 I’m interested in Databases and Web Development.
-- 💞️ I like Gophers and Capybaras.
+- 💞️ I like Gophers.
 - 👀 Check out my [YouTube channel](https://www.youtube.com/channel/UC3q7XzQ98yYKa54xQCBe-qg).
 
 <!---
